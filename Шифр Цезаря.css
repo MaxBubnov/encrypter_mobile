@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.key {
+	font-size: 25px;
+	text-align: center;
+	width: 40vw;
+	margin: 0 auto
+}
+.conteiner {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#outtext {
+padding: 10px;
+min-height: 200px;
+min-width: 200px;
+max-width: 1000px;
+border: 1px solid black;
+}
+.buttons {
+	text-align: center;
+	width: 40vw;
+	margin: 20px auto;
+}
